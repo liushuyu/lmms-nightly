@@ -1,3 +1,11 @@
+| Pull Request | Commit | Title | Author | Merged? |
+|----|----|----|----|----|
+
+
+End of merge log. You can find the original README.md below the break.
+
+-----
+
 <div align="center">
 	<h1>
 	<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" alt="LMMS Logo"><br>LMMS
